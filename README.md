@@ -2,7 +2,8 @@
 
 Hi everyone, i'm Luís Felipe, developer and software analyst.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoFelipe&show_icons=true&theme=merko)
+| <a href="https://github.com/sudoFelipe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sudoFelipe&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sudoFelipe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoFelipe&layout=compact&theme=merko&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sudo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
